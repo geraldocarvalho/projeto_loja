@@ -1,0 +1,10 @@
+cart:
+  cart_summary: 'SHOPPING-CART SUMMARY'
+  shopping_cart: 'Your shopping cart contains: 1 Product'
+  summary: '01. Summary'
+  sign_in: '02. Sign in'
+  adress: '03. Address'
+  shipping: '04. Shipping'
+  payment: '05. Payment'
+  cart_text: 'Your shopping cart'
+  product_added: 'Product successfully added to your shopping cart'
